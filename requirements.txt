@@ -45,7 +45,7 @@ rsa==4.6
 scipy==1.5.0
 six==1.15.0
 soupsieve==2.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 wordcloud @ file:///E:/Downloads/wordcloud-1.7.0-cp38-cp38-win32.whl
 zope.event==4.4
 zope.interface==5.1.0
